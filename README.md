@@ -16,9 +16,6 @@ I enjoy working with data to uncover patterns, answer questions, and turn raw in
 🔗 [https://github.com/VincentOA7/SQL-Sales-Analysis]
 
 #### ⚓ SQL Port Terminal Analysis
-
-A SQL analysis of port terminal data, exploring operational patterns and extracting insights from the dataset.
-
 🔗 [View Project](#)
 
 ## 🤝 Connect With Me
