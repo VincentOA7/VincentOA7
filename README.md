@@ -13,10 +13,7 @@ I enjoy working with data to uncover patterns, answer questions, and turn raw in
 ## 🚀 Featured Projects
 
 ### 📊 SQL Sales Analysis
-
-A SQL-based analysis of sales data focused on uncovering sales trends, customer insights, and business performance.
-
-🔗 [View Project](#)
+🔗 [https://github.com/VincentOA7/SQL-Sales-Analysis]
 
 ### ⚓ SQL Port Terminal Analysis
 
