@@ -8,7 +8,7 @@ I enjoy working with data to uncover patterns, answer questions, and turn raw in
 
 * 📊 **Excel**
 * 🗄️ **SQL Server**
-* 📈 **I’m Currently Learning PowerBI**
+* 📈 **Currently Learning PowerBI**
 
 ## 🚀 Featured Projects
 
