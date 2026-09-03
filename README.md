@@ -1,6 +1,6 @@
 # Hi, I'm Vincent 👋
 
-I'm a **beginner Data Analyst** passionate about finding insights from data and using them to support better decisions.
+I'm a **Data Analyst** passionate about finding insights from data and using them to support better decisions.
 
 I enjoy working with data to uncover patterns, answer questions, and turn raw information into meaningful insights.
 
