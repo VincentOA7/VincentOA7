@@ -15,7 +15,7 @@ I enjoy working with data to uncover patterns, answer questions, and turn raw in
 #### 📊 SQL Sales Analysis
 🔗 [https://github.com/VincentOA7/SQL-Sales-Analysis]
 
-#### ⚓ SQL Port Terminal Analysis
+#### ⚓ Operational SQL Analysis
 🔗 [https://github.com/VincentOA7/Operational-SQL-Analysis-/tree/main]
 
 ## 🤝 Connect With Me
